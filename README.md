@@ -1,5 +1,6 @@
 # Sofw_Eng_Practices
  AWS Machine Learning Foundations Course
+ Software Engineering Practices
 
 git Git branching model
 
